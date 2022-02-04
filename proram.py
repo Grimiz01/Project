@@ -1,3 +1,9 @@
+# program by Akash Pounikar
+# Mechanical Engg
+#6th sem 
+# St. Vincent Pallotti College of Engg and Tech
+
+
 import pandas as pd  # pip install pandas openpyxl
 import plotly.express as px  # pip install plotly-express
 import streamlit as st  # pip install streamlit
